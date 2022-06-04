@@ -8,5 +8,5 @@
 
 ## Who is Alex?
 <div align='justify'>
-Olá, me chamo Alex Vieira Dias, sou um jovem cativado por tecnologia e programação, <br> atualmente possuo 17 anos e estou no 3º ano do ensino médio cursando técnico em <br> informática integrado no Instituto Federal Catarinense em Blumenau.
+Olá, me chamo Alex Vieira Dias, sou um jovem cativado por tecnologia e programação, atualmente possuo 17 anos e estou no 3º ano do ensino médio cursando técnico em informática integrado no Instituto Federal Catarinense em Blumenau.
 </div>
