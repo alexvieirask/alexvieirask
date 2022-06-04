@@ -2,8 +2,8 @@
 > *A dor é temporária desistir dura pra sempre*
 <div align='center'>
   <a href="https://github.com/alexvieirask"> 
-    <img height='200em' src='https://github-readme-stats.vercel.app/api?username=alexvieirask&show_icons=true&theme=radical'/>  
-    <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=alexvieirask&layout=compact&hide=java&langs_count=5'/>
+    <img height='180' src='https://github-readme-stats.vercel.app/api?username=alexvieirask&show_icons=true&theme=radical'/>  
+    <img height='180' src='https://github-readme-stats.vercel.app/api/top-langs/?username=alexvieirask&layout=compact&hide=java&langs_count=5'/>
   </a>
 </div>
 
