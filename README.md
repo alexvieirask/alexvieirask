@@ -24,3 +24,4 @@ HTML e CSS
 #### Outras
 * Edição de foto (Photoshop) 
 * Edição de video (Vegas Pro e Camtasia Studio)
+* Inglês Básico
