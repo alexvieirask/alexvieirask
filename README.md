@@ -1,9 +1,9 @@
 ## Hello! My name is Alex, nice to meet you.
-> *A dor é temporária desistir dura pra sempre*
+> Sempre mire no objetivo, o sucesso é consequência.
 <div align='center'>
   <a href="https://github.com/alexvieirask"> 
     <img height='180' src='https://github-readme-stats.vercel.app/api?username=alexvieirask&show_icons=true&theme=radical'/>  
-    <img height='180' src='https://github-readme-stats.vercel.app/api/top-langs/?username=alexvieirask&layout=compact&hide=java&langs_count=5'/>
+    <img height='180' src='https://github-readme-stats.vercel.app/api/top-langs/?username=alexvieirask&layout=compact&hide=java&langs_count=2'/>
   </a>
 </div>
 
@@ -21,7 +21,3 @@ Olá, me chamo Alex Vieira Dias, sou um jovem cativado por tecnologia e programa
 * Conhecimentos básicos em
 HTML e CSS
 
-#### Outras
-* Edição de foto (Photoshop) 
-* Edição de video (Vegas Pro e Camtasia Studio)
-* Inglês Básico
