@@ -18,6 +18,6 @@ Olá, me chamo Alex Vieira Dias, sou um jovem cativado por tecnologia e programa
 * Javascript 
 * Python 
 * React Native
-* Conhecimentos básicos em
-HTML e CSS
 
+## Atualmente
+* 🕗 Estudando Desenvolvimento Web  
