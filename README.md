@@ -1,4 +1,4 @@
-<h1>Olá, meu nome é Alex!/h1> 
+<h1>Olá, meu nome é Alex!</h1> 
 
 <div>  
     <img style="width:48%; height:250px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexvieirask&show_icons=true&theme=radical" /> 
